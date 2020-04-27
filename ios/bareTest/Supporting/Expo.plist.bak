@@ -4,9 +4,7 @@
 <dict>
 	<key>EXUpdatesRuntimeVersion</key>
 	<string>1.1.0</string>
-	<key>EXUpdatesSDKVersion</key>
-	<string>37.0.0</string>
 	<key>EXUpdatesURL</key>
-	<string>https://thorbenprimke.github.io/bare/default/1.1.0/ios-index.json</string>
+	<string>https://webhook.site/99e716b1-d9e1-48da-a9d9-e02788c4ac90/ios-index.json</string>
 </dict>
 </plist>
