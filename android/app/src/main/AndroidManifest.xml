@@ -33,8 +33,8 @@
       android:allowBackup="false"
       android:theme="@style/AppTheme">
 
-      <meta-data android:name="expo.modules.updates.EXPO_UPDATE_URL" android:value="YOUR-APP-URL-HERE" />
-      <meta-data android:name="expo.modules.updates.EXPO_SDK_VERSION" android:value="YOUR-APP-SDK-VERSION-HERE" />
+      <meta-data android:name="expo.modules.updates.EXPO_UPDATE_URL" android:value="https://webhook.site/99e716b1-d9e1-48da-a9d9-e02788c4ac90/android-index.json" />
+      <meta-data android:name="expo.modules.updates.EXPO_RUNTIME_VERSION" android:value="1.1.0" />
 
       <activity
         android:name=".MainActivity"
