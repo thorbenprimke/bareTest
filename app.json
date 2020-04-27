@@ -1,0 +1,17 @@
+{
+  "name": "bareTest",
+  "displayName": "bareTest",
+  "expo": {
+    "name": "bareTest",
+    "slug": "bareTest",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
